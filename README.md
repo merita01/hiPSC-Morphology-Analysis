@@ -21,7 +21,4 @@ The repository contains the Jupyter notebooks used for the analysis and the comp
 
 The original microscopy dataset and the full extracted dataset are not included.
 
-Research Paper
-
-[View the completed research paper](paper/ipsc.manuscript.pdf)
 
